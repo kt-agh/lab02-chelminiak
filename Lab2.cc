@@ -7,10 +7,10 @@ using namespace std;
 //dopuszczalnej długości linii, znakach z kodu ASCII, wcięciach i dbalości 
 //o wysokiej jakosci komentarzach.
 
- int main() { int pierwsza_zmienna = 5; int druga_zmienna = 7;
- int wynik_działania = pierwsza_zmienna + druga_zmienna;
+int main() { int pz = 5; int dz = 7;
+int wd = pz + dz;
 
- cout <<"Wynik Dodawania Dwóch Liczb To:"<<wynik_działania<<endl; 
+cout <<"Wynik Dodawania Dwóch Liczb To:"<<wd<<endl; 
 // Wypisuje wynik dzialania
- return 0;
- }
+return 0;
+}
